@@ -3,3 +3,4 @@ def dodivision():
     b=5
     print(a/b)
 dodivision()
+#this is code for division
